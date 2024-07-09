@@ -18,6 +18,7 @@ The output of ls -al
 -rw-r--r-- 1 bob developers 281 Apr  1  2020 /source/project/learn.py
 The owner (ie bob) has read and write permissions, other members of the group have read permissions, and the rest of the world has read permissions on the file. The file is owned by the user named bob and belongs to the developers group. The total size of the file is 281 bytes.
 
+
 2. mkdir Command
 The mkdir stands for make directory. The mkdir command is used to create a new directory in Linux.
 
